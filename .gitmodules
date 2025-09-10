@@ -1,0 +1,9 @@
+[submodule "n8n-invoice-automation"]
+	path = n8n-invoice-automation
+	url = https://github.com/umur957/n8n-invoice-automation.git
+[submodule "n8n-job-application-workflow"]
+	path = n8n-job-application-workflow
+	url = https://github.com/umur957/n8n-job-application-workflow.git
+[submodule "n8n-remwaste-challenge"]
+	path = n8n-remwaste-challenge
+	url = https://github.com/umur957/n8n-remwaste-challenge.git
